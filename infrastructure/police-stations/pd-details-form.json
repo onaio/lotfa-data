@@ -14,7 +14,7 @@
             63,
             64,
             65,
-            "/data/pd-security-temp.csv"
+            "/https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/police-stations/data/pd-security-temp.csv"
         ],
         "join": [
             "pd_number",
