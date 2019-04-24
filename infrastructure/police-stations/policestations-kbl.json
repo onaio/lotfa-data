@@ -24,7 +24,7 @@
             1.1
         ],
         "icon-image": "police-station-red",
-        "icon-allow-overlap": true
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",
