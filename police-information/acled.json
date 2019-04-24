@@ -1,7 +1,15 @@
 {
   "label": "Conflict Data: Summary of Political Violence and Protest",
   "layers": [
-  "E1","E2","E3","E4","E5","E6","E7","E8","E9"
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E1.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E2.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E3.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E4.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E5.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E6.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E7.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E8.json",
+    "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/E9.json"
   ],
   "categories": {
     "breaks": "no",
