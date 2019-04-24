@@ -20,7 +20,7 @@
         "text-size": 14,
         "text-field": "{ABBR}",
         "text-offset": [
-            0,
+            1,
             1.1
         ],
         "icon-image": "police-station-red",
