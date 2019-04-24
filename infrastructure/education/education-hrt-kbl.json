@@ -2,7 +2,7 @@
     "label": "Education Facilities - UNAMA",
     "source": {
         "type": "geojson",
-        "data": "data/kbl_hrt_ed.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/education/data/kbl_hrt_ed.geojson",
         "join": [
             "GlobalID",
             "GlobalID"

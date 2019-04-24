@@ -2,7 +2,7 @@
     "label": "Summary of Political Violence and Protest: Battle-Government regains territory",
     "source": {
         "type": "vector",
-        "data": "data/af-acled1.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/data/af-acled1.csv",
         "layer": "af-acled-timeseries-5ktmt2",
         "url": "mapbox://ona.2e8163gd",
         "join": [

@@ -2,7 +2,7 @@
     "label": "PD PPHQ",
     "source": {
         "type": "vector",
-        "data": "data/tashkil_ppq.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/data/tashkil_ppq.csv",
         "layer": "afg_admbnda_adm1_agcho_201805-367pni",
         "url": "mapbox://ona.9m1lfrr5",
         "join": [
@@ -18,7 +18,7 @@
         "clusters": 7
     },
     "labels": {
-        "data": "data/afg_admbnda_adm1_agcho_centroids.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/data/tashkil_ppq.csv",
         "label": "<b> {{total}} </b>",
         "join": [
             "ADM1_PCODE",

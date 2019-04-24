@@ -2,7 +2,7 @@
     "label": "Kabul Total PD Population",
     "source": {
         "type": "vector",
-        "data": "data/pd_population.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/demographics/data/pd_population.csv",
         "layer": "PD_boundaries-0dpe0t",
         "url": "mapbox://ona.7ebduzh1",
         "join": [
@@ -18,7 +18,7 @@
         "clusters": 5
     },
     "labels": {
-        "data": "data/PD_boundaries_points.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/demographics/data/pd_population.csv",
         "label": "<b> {{total}} </b>",
         "join": [
             "PD_Name",

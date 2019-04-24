@@ -2,7 +2,7 @@
     "label": "Percentage of Lack of Anti-Government Groups - Circles",
     "source": {
       "type": "vector",
-      "data": "data/improve_insecurity.csv",
+      "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/security-improvements/data/improve_insecurity.csv",
       "layer": "afg_admbnda_adm1_agcho_201805-corct0",
       "url": "mapbox://ona.5qpkgank",
       "join": ["ADM1_PCODE", "province_id"]

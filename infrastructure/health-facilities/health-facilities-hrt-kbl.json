@@ -2,7 +2,7 @@
     "label": "Health Facilities - UNAMA",
     "source": {
         "type": "geojson",
-        "data": "data/kbl_hrt_health.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/health-facilities/data/kbl_hrt_health.geojson",
         "join": [
             "NAME",
             "NAME"

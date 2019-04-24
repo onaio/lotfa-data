@@ -2,7 +2,7 @@
     "label": "Service Centres - MoIA",
     "source": {
         "type": "geojson",
-        "data": "data/service_centres.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/govt-building/data/service_centres.geojson",
         "join": [
             "facility_number",
             "facility_number"

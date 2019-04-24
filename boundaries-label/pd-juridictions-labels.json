@@ -2,7 +2,7 @@
     "label": "PD Labels",
     "source": {
         "type": "geojson",
-        "data": "data/PD_boundaries_centroids.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/boundaries-label/data/PD_boundaries_centroids.geojson",
         "join": [
             "OBJECTID",
             "OBJECTID"

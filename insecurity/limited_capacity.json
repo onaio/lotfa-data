@@ -2,7 +2,7 @@
     "label": "Percentage of Limited Capacity of Sec Person",
     "source": {
       "type": "vector",
-      "data": "data/Lotfa_insecurity.csv",
+      "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/insecurity/data/Lotfa_insecurity.csv",
       "layer": "afg_admbnda_adm1_agcho_201805-367pni",
       "url": "mapbox://ona.9m1lfrr5",
       "join": ["ADM1_PCODE", "province_id"]
@@ -15,7 +15,7 @@
       "clusters": 5
     },
     "labels": {
-        "data": "data/afg_admbnda_adm1_agcho_centroids.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/insecurity/data/Lotfa_insecurity.csv",
         "label": "<b> {{limited_capacity}}% </b>",
         "join": [
             "ADM1_PCODE",

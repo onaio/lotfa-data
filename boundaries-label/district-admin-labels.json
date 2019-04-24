@@ -2,7 +2,7 @@
     "label": "District Labels",
     "source": {
         "type": "geojson",
-        "data": "data/afghan_dist_points.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/boundaries-label/data/afghan_dist_points.geojson",
         "minzoom": 1
     },
     "type": "symbol",

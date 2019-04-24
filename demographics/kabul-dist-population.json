@@ -2,7 +2,7 @@
     "label": "Kabul District Population",
     "source": {
         "type": "vector",
-        "data": "data/kabul_districts_population.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/demographics/data/kabul_districts_population.csv",
         "layer": "kabul_districts-5rexsu",
         "url": "mapbox://ona.cyieg0hz",
         "join": [

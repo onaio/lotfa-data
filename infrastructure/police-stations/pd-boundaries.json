@@ -2,7 +2,7 @@
     "label": "PD Boundaries",
     "source": {
         "type": "geojson",
-        "data": "data/PD_boundaries.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/police-stations/data/PD_boundaries.geojson",
         "join": [
         "OBJECTID",
         "OBJECTID"

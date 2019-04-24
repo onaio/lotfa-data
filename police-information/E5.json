@@ -2,7 +2,7 @@
     "label": "Summary of Political Violence and Protest: Non-violent transfer of territory",
     "source": {
     "type": "vector",
-    "data": "data/af-acled5.csv",
+    "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/data/af-acled5.csv",
     "layer": "af-acled-timeseries-5ktmt2",
     "url": "mapbox://ona.2e8163gd",
     "join": [

@@ -2,7 +2,7 @@
     "label": "PD Juridictions",
     "source": {
         "type": "vector",
-        "data": "data/PD_boundaries_points.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/police-stations/data/PD_boundaries_points.csv",
         "layer": "PD_boundaries-0dpe0t",
         "url": "mapbox://ona.7ebduzh1",
         "join": [

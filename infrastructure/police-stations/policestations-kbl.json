@@ -2,7 +2,7 @@
     "label": "PD Stations - UNAMA",
     "source": {
         "type": "geojson",
-        "data": "data/kbl_hrt_pol.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/police-stations/data/kbl_hrt_pol.geojson",
         "join": [
             "GlobalID",
             "GlobalID"

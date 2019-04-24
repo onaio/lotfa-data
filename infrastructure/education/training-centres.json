@@ -2,7 +2,7 @@
     "label": "Training Centres - MoIA",
     "source": {
         "type": "geojson",
-        "data": "data/training_centres.geojson",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/infrastructure/education/data/training_centres.geojson",
         "join": [
             "facility_number",
             "facility_number"
