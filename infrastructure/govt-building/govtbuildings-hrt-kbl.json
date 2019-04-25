@@ -19,14 +19,14 @@
     },
     "layout": {
         "text-size": 12,
-        "text-optional": true,
+        "text-optional": false,
         "text-field": "{NAME}",
         "text-offset": [
-            0,
-            2
+            0.4,
+            1.2
         ],
         "icon-image": "govt-off",
-        "icon-allow-overlap": true
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",

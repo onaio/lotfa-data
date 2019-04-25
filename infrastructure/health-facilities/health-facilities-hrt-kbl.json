@@ -21,11 +21,11 @@
         "text-optional": true,
         "text-field": "{NAME}",
         "text-offset": [
-            0,
+            1,
             2
         ],
         "icon-image": "hospital",
-        "icon-allow-overlap": true
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",
