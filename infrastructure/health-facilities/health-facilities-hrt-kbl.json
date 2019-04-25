@@ -25,6 +25,7 @@
             2
         ],
         "icon-image": "hospital",
+        "icon-ignore-placement": false,
         "icon-allow-overlap": false
     },
     "categories": {

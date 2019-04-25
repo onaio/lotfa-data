@@ -19,12 +19,13 @@
     },
     "layout": {
         "text-size": 12,
-        "text-optional": false,
+        "text-optional": true,
         "text-field": "{NAME}",
         "text-offset": [
-            0.4,
-            1.2
+            1,
+            2.2
         ],
+        "icon-ignore-placement": false,
         "icon-image": "govt-off",
         "icon-allow-overlap": false
     },

@@ -85,13 +85,15 @@
     },
     "layout": {
         "text-size": 10,
+        "text-optional": true,
         "text-field": "{general_info/info_data/GIq5}",
         "text-offset": [
             0,
             2
         ],
+        "icon-ignore-placement": false,
         "icon-image": "police-station",
-        "icon-allow-overlap": true
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",

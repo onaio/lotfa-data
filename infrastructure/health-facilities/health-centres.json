@@ -26,13 +26,15 @@
     },
     "layout": {
         "text-size": 12,
+        "text-optional": true,
         "text-field": "{facility_name}",
         "text-offset": [
             0,
             2
         ],
         "icon-image": "hospital-red",
-        "icon-allow-overlap": true
+        "icon-ignore-placement": false,
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",

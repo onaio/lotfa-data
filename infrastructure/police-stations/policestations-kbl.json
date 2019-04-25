@@ -19,10 +19,12 @@
     "layout": {
         "text-size": 14,
         "text-field": "{ABBR}",
+        "text-optional": true,
         "text-offset": [
             1,
             1.1
         ],
+        "icon-ignore-placement": false,
         "icon-image": "police-station-red",
         "icon-allow-overlap": false
     },

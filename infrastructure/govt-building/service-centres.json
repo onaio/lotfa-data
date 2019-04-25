@@ -25,13 +25,15 @@
     },
     "layout": {
         "text-size": 12,
+        "text-optional": true,
         "text-field": "{facility_name}",
         "text-offset": [
             0,
-            2
+            2.4
         ],
         "icon-image": "service-green",
-        "icon-allow-overlap": true
+        "icon-ignore-placement": false,
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",
