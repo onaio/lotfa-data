@@ -18,7 +18,7 @@
         "clusters": 7
     },
     "labels": {
-        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/data/tashkil_ppq.csv",
+        "data": "https://raw.githubusercontent.com/onaio/lotfa-data/master/police-information/data/afg_admbnda_adm1_agcho_centroids.csv",
         "label": "<b> {{total}} </b>",
         "join": [
             "ADM1_PCODE",
